@@ -1,6 +1,9 @@
 package lesson1;
 
+ hometask3
 
+
+ master
 public class Task4 {
 
     public static void main(String[] args) {
