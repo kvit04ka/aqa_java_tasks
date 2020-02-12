@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="FirstSuite">
+    <test name="First Test">
+        <classes>
+           <class name="L1Task5"></class>
+        </classes>
+    </test>
+</suite>
