@@ -1,4 +1,6 @@
-import lesson1.Task1;
+package test.java;
+
+import main.java.lesson1.Task1;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
@@ -15,7 +17,7 @@ public class L1task1 {
     public void firstTest(int a, int b, int c, int expected){
     t1.min(a,b,c);
     int actual = t1.min(a,b,c);
-     assertEquals(expected, actual, "the minimum is 5");
+     assertEquals(expected, actual);
 
     }
 

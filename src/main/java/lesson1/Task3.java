@@ -1,4 +1,4 @@
-package lesson1;
+package main.java.lesson1;
 
  hometask3
 

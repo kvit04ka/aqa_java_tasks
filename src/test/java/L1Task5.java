@@ -1,4 +1,6 @@
-import lesson1.Task5;
+package test.java;
+
+import main.java.lesson1.Task5;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
