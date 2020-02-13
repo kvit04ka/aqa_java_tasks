@@ -3,6 +3,8 @@
     <test name="First Test">
         <classes>
            <class name="L1Task5"></class>
+            <class name="L1task1"></class>
+            <class name="L1Task2"></class>
         </classes>
     </test>
 </suite>
